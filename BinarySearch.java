@@ -42,6 +42,4 @@ public class BinarySearch {
 		int r2 = Math.abs(a[first] - k);
 		return (r1 <= r2)? a[last]:a[first];
 	}
-	
-	
 }
